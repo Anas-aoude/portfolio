@@ -1,0 +1,35 @@
+[
+  {
+    "role": "Self-employed as a fullstack developer",
+    "organisation": "Touchingcode GmbH",
+    "startDate": "Aug, 2023",
+    "endDate": "Present",
+    "experiences": [
+      "Design, development and implementation of responsive user interfacesfor web applications",
+      "Integration of backend services and databases for seamless userexperiences. - Use of modern web technologies such as Node.js and forthe backend. - Collaboration with cross-functional teams to specify andimplement new features."
+    ],
+    "imageSrc": "history/touchingCode.png"
+  },
+  {
+    "role": "Junior Web Developer",
+    "organisation": "Touchingcode GmbH",
+    "startDate": "Feb, 2022",
+    "endDate": "Jun, 2023",
+    "experiences": [
+      "Development of front-end components using HTML, CSS and JavaScript",
+      "Integration of RESTful APIs and databases into the applications.",
+      "Bug fixing, code optimization and continuous improvement of existingprojects."
+    ],
+    "imageSrc": "history/touchingCode.png"
+  },
+  {
+    "role": "Training as an IT specialist in application development",
+    "organisation": "Touchingcode GmbH",
+    "startDate": "Dez, 2018",
+    "endDate": "Jan, 2022",
+    "experiences": [
+      "Development of front-end components using HTML, CSS and JavaScript"
+    ],
+    "imageSrc": "history/touchingCode.png"
+  }
+]
